@@ -14,4 +14,4 @@ In this case study I will debug their SQL script and then use the resulting quer
 9. Have all 3 measures - blood glucose, weight and blood pressure?
 10.What is the median systolic/diastolic blood pressure values?
 
-You will find the data used for this case study under [health]()
+You will find the data used for this case study under [health](https://github.com/SiyamDodhiaAnalyst/Health_Analytics_Mini_Case_Study_SQL/tree/main/health)
